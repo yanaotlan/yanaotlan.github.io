@@ -1,7 +1,0 @@
----
-title: "Research"
----
-
-My ongoing projects.
-
-[Diplomacy](diplomacy_plots/plots_may01.html)

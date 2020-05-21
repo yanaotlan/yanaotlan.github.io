@@ -1,5 +1,0 @@
----
-title: "My CV"
----
-
-You can find the most recent version of my CV here.
