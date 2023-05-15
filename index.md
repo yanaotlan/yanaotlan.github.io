@@ -18,7 +18,13 @@ I am a Ph.D. student at University of California, Los Angeles
 Autocracies** at EPSA 2022
 - **[Dec 2021]** Started working as Reserach Associate at [[Nonviolent Repression in Electoral Autocracies](https://www.nonviolent-repression.co.uk/)]
 
-<!--- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.--->
+
+## Working Papers
+
+- **Authoritarian media and foreign protests: Evidence from a decade of Russian news** 
+  <br>
+  **Otlan, Y.**, Kuzmina, Y., Rumiantseva, A. & Tertytchnaya, K. (Under Review)
+  <br>
 
 
 <!---{% include_relative _includes/publications.md %}--->
