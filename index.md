@@ -14,6 +14,10 @@ I am a Ph.D. student at University of California, Los Angeles
 
 ## News
 
+- **[June 2022]** Presented **Persuade and Deter: Foreign Protest Coverage in Electoral
+Autocracies** at EPSA 2022
+- **[Dec 2021]** Started working as Reserach Associate at [[Nonviolent Repression in Electoral Autocracies](https://www.nonviolent-repression.co.uk/)]
+
 <!--- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.--->
 
 
