@@ -10,7 +10,7 @@ I am a Ph.D. student at University of California, Los Angeles
 
 - **International Diplomacy**: communicaiton startegies using public and pricate channels used by country leaders and diplomats
 - **Authoritarian Propaganda:** media, misinformation, and propganda in authoritarian countries  
-- **Text-as-Data:** quantitative text analysis, topic modeling, text classifciation
+- **Text-as-Data Methods:** quantitative text analysis, topic modeling, text classifciation
 
 ## News
 
