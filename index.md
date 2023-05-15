@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at University of California, Los Angeles
+I am a Ph.D. Candidate in Political Science at University of California, Los Angeles
 
 ## Research Interests
 
