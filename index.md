@@ -21,6 +21,11 @@ Autocracies** at EPSA 2022
 
 ## Working Papers
 
+- **Competition Under Censorship: When Independent Media Mirrors State Propaganda in Putin's Russia** 
+  <br>
+  **Otlan, Y.** & Rumiantseva, A.
+  <br>
+  
 - **Authoritarian media and foreign protests: Evidence from a decade of Russian news** 
   <br>
   **Otlan, Y.**, Kuzmina, Y., Rumiantseva, A. & Tertytchnaya, K. (Under Review)
