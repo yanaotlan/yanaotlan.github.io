@@ -17,6 +17,6 @@ I am a Ph.D. student at University of California, Los Angeles
 <!--- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.--->
 
 
-{% include_relative _includes/publications.md %}
+<!---{% include_relative _includes/publications.md %}--->
 
-{% include_relative _includes/services.md %}
+<!---{% include_relative _includes/services.md %}--->
