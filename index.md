@@ -25,11 +25,6 @@ Autocracies** at EPSA 2022
   <br>
   **Otlan, Y.** & Rumiantseva, A.
   <br>
-  
-- **Authoritarian media and foreign protests: Evidence from a decade of Russian news** 
-  <br>
-  **Otlan, Y.**, Kuzmina, Y., Rumiantseva, A. & Tertytchnaya, K. (Under Review)
-  <br>
 
 
 {% include_relative _includes/publications.md %}
