@@ -13,6 +13,7 @@ I am a Ph.D. Candidate in Political Science at University of California, Los Ang
 - **Text-as-Data Methods:** quantitative text analysis, topic modeling, text classifciation
 
 ## News
+- **[October 2023]** **Authoritarian media and foreign protests: evidence from a decade of Russian news** published in Post-Soviet Affairs [[Link](https://www.tandfonline.com/doi/abs/10.1080/1060586X.2023.2264079)] 
 - **[June 2023]** Presented **Competition Under Censorship: When Independent Media Mirrors State Propaganda in Putin's Russia** at EPSA 2023
 - **[June 2022]** Presented **Persuade and Deter: Foreign Protest Coverage in Electoral
 Autocracies** at EPSA 2022
