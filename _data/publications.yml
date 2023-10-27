@@ -2,7 +2,6 @@ main:
 
   - title: Authoritarian media and foreign protests: evidence from a decade of Russian news
     authors:  <strong>Yana Otlan</strong>, Yulia Kuzmina, Aleksandra Rumiantseva, Katerina Tertytchnaya*(*Corresponding authors)
-    #conference_short: MICCAI
     conference: Post-Soviet Affairs, 2023
     pdf: https://www.tandfonline.com/doi/full/10.1080/1060586X.2023.2264079
     image: .assets/img/psa_preview.png
