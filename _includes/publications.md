@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/1060586X.2023.2264079">Authoritarian media and foreign protests: evidence from a decade of Russian news</a></div>
+    <div class="title">Authoritarian media and foreign protests: evidence from a decade of Russian news</a></div>
     <div class="author"><strong> Yana Otlan</strong>, Yulia Kuzmina, Aleksandra Rumiantseva, Katerina Tertytchnaya</div>
     <div class="periodical"><em>Post-Soviet Affairs, Volume 39, 2023</em></div>
     <div class="links">
