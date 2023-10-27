@@ -28,6 +28,6 @@ Autocracies** at EPSA 2022
   <br>
 
 
-<!---{% include_relative _includes/publications.md %}--->
+{% include_relative _includes/publications.md %}
 
 <!---{% include_relative _includes/services.md %}--->
